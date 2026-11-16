@@ -1,0 +1,16 @@
+.riaco-opn-notice {
+	background: #fff8e5;
+	border-left: 4px solid #dba617;
+	padding: 12px 16px;
+	margin-bottom: 24px;
+}
+
+.riaco-opn-notice p {
+	margin: 0;
+}
+
+.riaco-opn-notice .riaco-opn-date {
+	font-size: 0.875em;
+	margin-top: 4px;
+	opacity: 0.8;
+}
